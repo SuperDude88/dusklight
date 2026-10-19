@@ -497,7 +497,7 @@ int daNpc_Toby_c::isDelete() {
     // 0x054 -  M_051 - Fought the Shadow Bulbin riding the Shadow Kargorok (?)
     // 0x136 - F_0310 - Handed Auru's note to Fyer
     // 0x190 - F_0400 - Warped sky cannon to Lake Hylia
-    // 0x1E4 - F_0484 - Completed sky canon repairs!
+    // 0x1E4 - F_0484 - Completed sky cannon repairs!
     // 0x1E5 - F_0485 - Heard Fyer talk about repairs 1 time
     switch (mType) {
         case 0:

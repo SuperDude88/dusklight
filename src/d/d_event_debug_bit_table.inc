@@ -2898,7 +2898,7 @@
 },
 {
 	"F_0484",
-	"484 天空大砲修理完了！", // Completed sky canon repairs!
+	"484 天空大砲修理完了！", // Completed sky cannon repairs!
 	"京極", // Kyogoku
 	0x3b08,
 	"F_SP115:ハイリア湖", // Lake Hylia
